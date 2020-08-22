@@ -1287,7 +1287,7 @@ This hook launches modules when the AdminOrder tab is displayed in the Back Offi
     Located in:
 
         - admin-dev/themes/default/template/controllers/orders/helpers/view/view.tpl
-        - src/PrestaShopBundle/Resources/views/Admin/Sell/Order/Order/view.html.twig
+        - src/PrestaShopBundle/Resources/views/Admin/Sell/Order/Order/view.html.twig (This file and second Order folder doesn't exist in src/PrestaShopBundle/Resources/views/Admin/Sell/Order path in version 1.7.6.5)
 
     Parameters:
     ```php
